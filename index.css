@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1f2937;
+  color: white;
+  font-family: "Inter";
+}
+#head-part {
+  height: 40vh;
+  text-align: center;
+  padding-top: 50px;
+  background: linear-gradient(246.26deg, #585dfe 0%, #fb3796 100%);
+}
+h1 {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 38px;
+}
+#number-head {
+  font-size: 100px;
+  margin-top: 30px;
+}
+#units-part {
+  text-align: center;
+}
+.text-head {
+  margin-top: 50px;
+}
+.text-convert {
+  color: #d2d2d2;
+}
